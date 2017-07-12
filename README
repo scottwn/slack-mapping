@@ -1,1 +1,0 @@
-This is a Heroku app that uses a Slack bot to notify members of an agile team when Jenkins builds complete or fail or when people commit to or comment on selected git repos.
